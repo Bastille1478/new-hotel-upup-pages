@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780" role="img" aria-labelledby="title desc">
+  <title id="title">丽酒店 新签上线三阶段一图流</title><desc id="desc">上线准备清单、五钻评定补充、开售前维护与开售门槛。</desc>
+  <rect width="1200" height="780" fill="#f5f8fb"/><rect x="40" y="32" width="1120" height="108" rx="24" fill="#083f47"/>
+  <text x="82" y="82" fill="#bdebe6" font-family="Microsoft YaHei, PingFang SC, Arial" font-size="24" font-weight="700">HOTEL ONBOARDING · 三阶段一图流</text>
+  <text x="82" y="118" fill="#ffffff" font-family="Microsoft YaHei, PingFang SC, Arial" font-size="36" font-weight="700">丽酒店｜新签上线准备至开售</text>
+  <line x1="255" y1="378" x2="945" y2="378" stroke="#82b7b3" stroke-width="12" stroke-linecap="round"/>
+  <polygon points="935,354 975,378 935,402" fill="#82b7b3"/>
+  <g font-family="Microsoft YaHei, PingFang SC, Arial">
+    <circle cx="220" cy="378" r="88" fill="#e5f6f4" stroke="#0a6a73" stroke-width="6"/><text x="220" y="366" text-anchor="middle" fill="#0a6a73" font-size="52" font-weight="700">01</text><text x="220" y="410" text-anchor="middle" fill="#172033" font-size="25" font-weight="700">上线准备</text>
+    <circle cx="600" cy="378" r="88" fill="#fff4e5" stroke="#b96b17" stroke-width="6"/><text x="600" y="366" text-anchor="middle" fill="#b96b17" font-size="52" font-weight="700">02</text><text x="600" y="410" text-anchor="middle" fill="#172033" font-size="25" font-weight="700">五钻评定补充</text>
+    <circle cx="980" cy="378" r="88" fill="#e9eef9" stroke="#405f9f" stroke-width="6"/><text x="980" y="366" text-anchor="middle" fill="#405f9f" font-size="52" font-weight="700">03</text><text x="980" y="410" text-anchor="middle" fill="#172033" font-size="25" font-weight="700">开售前维护</text>
+    <rect x="82" y="514" width="278" height="170" rx="18" fill="#ffffff" stroke="#dfe5ee" stroke-width="2"/><text x="110" y="558" fill="#0a6a73" font-size="25" font-weight="700">资料与影像</text><text x="110" y="600" fill="#637089" font-size="20">资料包补充填写</text><text x="110" y="632" fill="#637089" font-size="20">房型图 4 张</text><text x="110" y="664" fill="#637089" font-size="20">公区设施图 ≥8 张</text>
+    <rect x="462" y="514" width="278" height="170" rx="18" fill="#ffffff" stroke="#dfe5ee" stroke-width="2"/><text x="490" y="558" fill="#b96b17" font-size="25" font-weight="700">五钻评定补充</text><text x="490" y="600" fill="#637089" font-size="20">一镜到底视频 · 7类评定信息</text><text x="490" y="632" fill="#637089" font-size="20">完善酒店核心亮点</text><text x="490" y="664" fill="#637089" font-size="20">仅提交可公开信息</text>
+    <rect x="842" y="514" width="278" height="170" rx="18" fill="#ffffff" stroke="#dfe5ee" stroke-width="2"/><text x="870" y="558" fill="#405f9f" font-size="25" font-weight="700">开售门槛</text><text x="870" y="600" fill="#637089" font-size="20">1. 应开发票</text><text x="870" y="632" fill="#637089" font-size="20">2. 早餐政策</text><text x="870" y="664" fill="#637089" font-size="20">3. 新建房型后开售</text>
+  </g>
+  <rect x="342" y="718" width="516" height="36" rx="18" fill="#0a6a73"/><text x="600" y="744" text-anchor="middle" fill="#ffffff" font-family="Microsoft YaHei, PingFang SC, Arial" font-size="20" font-weight="700">敏感身份材料仅通过双方授权安全渠道提交</text>
+</svg>
